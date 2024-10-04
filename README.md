@@ -1,5 +1,3 @@
-# Sistema-de-Gerenciamento-de-Estudantes
-
 # Sistema de Gerenciamento de Estudantes
 
 Este é um projeto simples em Java para gerenciar uma lista de estudantes. O sistema permite adicionar, remover e listar estudantes, além de calcular a média das notas de cada estudante.
